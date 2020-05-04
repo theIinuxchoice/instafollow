@@ -4,12 +4,12 @@ from email.mime.text import MIMEText
 import requests
 banner = '''
 _____________________________________________
-|              								 |
-|											 |
-|	      THE LINUXCHOICE --- V.3.0			 |							 
-|				insta-followers				 |
-|											 |
-|											 |
+|              				     |
+|					     |
+|	      THE LINUXCHOICE --- V.2.0	     |							 
+|		insta-followers		     |
+|					     |
+|					     |
 |____________________________________________|
 '''
 print(banner)
